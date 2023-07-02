@@ -2,8 +2,8 @@
 
 
 <div>
-
-<img align="right" width="400" alt="Shimarin" src="https://i.ibb.co/XVYS5FM/photo-6127258962643499086-x.jpg"/>
+border="0"></a>
+<img align="right" width="400" alt="Shimarin" src="https://i.ibb.co/hfp0ndh/photo-6127258962643499088-y.jpg"/>
 
 <h2> / about me /</h2>
   
