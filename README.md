@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<p align = center ><img src="https://i.ibb.co/bgTMNDg/photo-6127375571005584897-y.jpg"> </p>
 
 <div>
 
@@ -36,7 +36,7 @@
   </br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+
   </div>
   </div>
 
