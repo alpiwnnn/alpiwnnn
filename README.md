@@ -1,8 +1,9 @@
-<p align = center ><img src="https://i.ibb.co/bgTMNDg/photo-6127375571005584897-y.jpg"> </p>
+<p align = center ><img src="https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true"> </p>
+
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.ibb.co/bgTMNDg/photo-6127375571005584897-y.jpg?raw=true)"/>
 
 <h2> / about me /</h2>
   
