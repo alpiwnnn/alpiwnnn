@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.ibb.co/bgTMNDg/photo-6127375571005584897-y.jpg?raw=true"> </p>
+<p align = center ><img src="https://github.com/alpiwnnn/alpiwnnn/assets/135938418/1e8a6062-413f-4ea3-9346-36fdc1c34e00"> </p>
 
 
 <div>
