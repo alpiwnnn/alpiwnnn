@@ -1,4 +1,4 @@
-<p align = center ><img src="https://github.com/alpiwnnn/alpiwnnn/assets/135938418/1e8a6062-413f-4ea3-9346-36fdc1c34e00"> </p>
+<p align = center ><img src="https://github.com/alpiwnnn/alpiwnnn/assets/135938418/eeec31d5-0000-4c02-a9db-c3d1f7d28c2a"> </p>
 
 
 <div>
@@ -8,7 +8,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align = center ><img src="https://github.com/alpiwnnn/to.nabilaa/assets/135938418/e6ab0f19-7887-4c7f-8508-a7b288d5b4ae">
+<p align = center ><img src="https://github.com/alpiwnnn/alpiwnnn/assets/135938418/ba6a165d-c54b-4440-af67-2f94b40734c6">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
