@@ -9,7 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" width="400" alt="Shimarin" src="https://github.com/alpiwnnn/alpiwnnn/assets/135938418/eb07b546-3463-47c1-8925-d1c93855672e">
+<p align = center ><img src="https://github.com/alpiwnnn/alpiwnnn/assets/135938418/3b0775f0-3a4e-446c-83ac-052683d002c9">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
