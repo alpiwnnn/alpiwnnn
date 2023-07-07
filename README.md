@@ -8,7 +8,8 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align = center ><img src="https://github.com/alpiwnnn/alpiwnnn/assets/135938418/91e15b7f-d1e2-43aa-b674-6dc1f043dbf0">
+
+<img align="right" width="400" alt="Shimarin" src="https://github.com/alpiwnnn/alpiwnnn/assets/135938418/eb07b546-3463-47c1-8925-d1c93855672e">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
@@ -21,8 +22,8 @@
 - ⭐ currently working on **web-development**
 - 💀 mostly working on **private repositories**
 - 👾 a **student** working his way around things
-<br>
 
+<br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
