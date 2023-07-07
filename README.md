@@ -8,7 +8,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align = center ><img src="https://github.com/alpiwnnn/alpiwnnn/assets/135938418/ba6a165d-c54b-4440-af67-2f94b40734c6">
+<p align = center ><img src="https://github.com/alpiwnnn/alpiwnnn/assets/135938418/91e15b7f-d1e2-43aa-b674-6dc1f043dbf0">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
